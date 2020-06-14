@@ -6,3 +6,5 @@
 
 ## Installation:
 ![alt text](https://developer.chrome.com/static/images/get_started/load_extension.png)
+
+git clone https://github.com/Ivan-Kononchuk/Black-Chrome.git
